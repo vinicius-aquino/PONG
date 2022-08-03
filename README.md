@@ -2,7 +2,7 @@
 My Pong game
 
 
-PLEASE TAKE A LOOK at the images
+PLEASE TAKE A LOOK AT THE IMAGES
 
 this is my first game maked in UNITY, he has two players playeable...on the left has "W" and "S" to move up and down, on the right has 
 "UP ARROW" and "DOWN ARROW"...
